@@ -1,0 +1,25 @@
+﻿Running 16 checks on your project...
+ظ£¤ Check package.json for common issues
+ظ£¤ Check Expo config for common issues
+ظ£¤ Check if the project meets version requirements for submission to app stores
+ظ£¤ Check for lock file
+ظ£¤ Check dependencies for packages that should not be installed directly
+ظ£¤ Check for app config fields that may not be synced in a non-CNG project
+ظ£¤ Check npm/yarn versions
+ظ£¤ Check native tooling versions
+ظ£¤ Check for issues with Metro config
+ظ£û Check for common project setup issues
+ظ£¤ Check Expo config (app.json/ app.config.js) schema
+ظ£¤ Check that required peer dependencies are installed
+ظ£¤ Check that native modules do not use incompatible support packages
+ظ£¤ Check that native modules use compatible support package versions for installed Expo SDK
+ظ£¤ Check that packages match versions required by installed Expo SDK
+ظ£¤ Check for legacy global CLI installed locally
+
+15/16 checks passed. 1 checks failed. Possible issues detected:
+
+ظ£û Check for common project setup issues
+The .expo directory is not ignored by Git. It contains machine-specific device history and development server settings and should not be committed.
+Advice:
+Add ".expo/" to your .gitignore to avoid committing local Expo state.
+

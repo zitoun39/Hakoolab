@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.9.24",
+            "gradlePluginVersion": "8.4.2",
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "gradleProperties": {
+              "android.suppressUnsupportedCompileSdk": "35"
+            }
+          }
+        }
+      ]
+    ],
+    "android": { "package": "com.devans.hakoolab", "versionCode": 1 }
+  }
+}
