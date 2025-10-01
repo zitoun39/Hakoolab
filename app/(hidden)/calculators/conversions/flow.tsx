@@ -1,4 +1,4 @@
-﻿﻿import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { View, Text } from 'react-native';
 import { BaseCalculator } from '@/src/components/calculators/BaseCalculator';
 import { Input } from '@/src/components/ui/Input';

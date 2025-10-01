@@ -1,4 +1,4 @@
-﻿﻿import { useEffect } from "react";
+﻿import { useEffect } from "react";
 import { Platform, BackHandler, View, Text } from "react-native";
 import { router } from "expo-router";
 

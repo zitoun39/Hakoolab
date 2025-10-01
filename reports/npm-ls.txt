@@ -1,4 +1,4 @@
-﻿hakoolab@1.0.0 D:\newpro
+hakoolab@1.0.0 D:\newpro
 +-- @babel/core@7.28.4
 +-- @babel/plugin-transform-template-literals@7.27.1
 +-- @expo/vector-icons@14.1.0

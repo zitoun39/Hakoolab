@@ -1,4 +1,4 @@
-﻿.expo/types/router.d.ts
+.expo/types/router.d.ts
 .gitignore
 app.json
 app/(drawer)/_layout.tsx
